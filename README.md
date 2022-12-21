@@ -31,7 +31,7 @@
  <br>
  <img height="50" width="100" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>
  <img height="50" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
- <img height="50" width="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F303229%2Fmicrosoft-sql-server-logo&psig=AOvVaw0QD-FV3Q86HZSD_t8Ee05Z&ust=1671722791646000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIC9luuCi_wCFQAAAAAdAAAAABAN"/>
+ <img height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
  
  
