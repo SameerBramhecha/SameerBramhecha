@@ -2,7 +2,7 @@
  <strong>Hey there, I'm Sameer Bramhecha!</strong>
  </i>
 <div>
-<img align="right" width="280" height="280" src="(https://i.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.webp)" >   
+<img align="right" width="280" height="280" src="https://i.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" >   
  </div>
 <br>
  <i> I'm a Third Year student currently pursuing a Bachelor's Degree in Computer Engineering at the Pune Institute of Computer Technology.
