@@ -9,7 +9,7 @@
  <i> I'm a Third Year student currently pursuing a Bachelor's Degree in Computer Engineering at the Pune Institute of Computer Technology.
  I'm an open minded person and love to connect & interact with people.
  I’m currently exploring Data Structures and Algorithms.
- 
+ I'm really intrested in Competitive Programming.
  Apart from my studies, I love playing cricket, watching movies & listening to music.</i>
 
 
