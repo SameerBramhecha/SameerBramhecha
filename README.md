@@ -8,7 +8,8 @@
 <br>
  <i> I'm a Third Year student currently pursuing a Bachelor's Degree in Computer Engineering at the Pune Institute of Computer Technology.
  I'm an open minded person and love to connect & interact with people.
- I’m currently exploring Cyber Security.
+ I’m currently exploring Data Structures and Algorithms.
+ 
  Apart from my studies, I love playing cricket, watching movies & listening to music.</i>
 
 
@@ -22,6 +23,7 @@
     
 ### Technologies that I have worked with:
 <div>
+ <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
