@@ -50,3 +50,4 @@
 
  ### Connect with me-
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sameer-b-103912129/)
+[<img src="https://freepngimg.com/thumb/logo/69662-instagram-media-brand-social-logo-photography.png" />](https://www.instagram.com/sameer_bramhecha/)
