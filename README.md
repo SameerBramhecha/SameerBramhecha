@@ -42,7 +42,7 @@
  
  </div>
  
-### OPERATING SYSTEMS I USE:
+### Operating Systems I Use:
 <div>
    <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Unofficial_Windows_logo_variant_-_2002%E2%80%932012_%28Multicolored%29.svg" /> 
   <img height="50" width="50" src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png">
