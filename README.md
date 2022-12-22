@@ -54,6 +54,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerBramhecha)](https://github.com/anuraghazra/github-readme-stats) 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerBramhecha&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerBramhecha&show_icons=true&theme=dark)  
 
 ![Profile views](https://gpvc.arturio.dev/SameerBramhecha)  
