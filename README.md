@@ -29,7 +29,7 @@
 ### Technologies that I have worked with:
 <div>
  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
- <img height="50" width="60" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
+ <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
@@ -49,5 +49,11 @@
   </div>
 
  ### Connect with me-
-[<img height = "50" width = "50" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />](https://www.linkedin.com/in/sameer-b-103912129/)
+[<img height = "50" width = "50" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sameer-b-103912129/)
 [<img height="50" width="50" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" />](https://www.instagram.com/sameer_bramhecha/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SameerBramhecha)](https://github.com/anuraghazra/github-readme-stats) 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerBramhecha&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/SameerBramhecha)  
