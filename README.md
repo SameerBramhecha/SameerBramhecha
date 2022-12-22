@@ -29,7 +29,7 @@
 ### Technologies that I have worked with:
 <div>
  <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
+ <img height="50" width="60" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> 
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" />  
  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
@@ -49,5 +49,5 @@
   </div>
 
  ### Connect with me-
-[<img height = "50" width = "60" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5iJLydkS-Rpg8vuFF04qj48NnbRJb89d9dARmK4uaj4gK5YL&s" />](https://www.linkedin.com/in/sameer-b-103912129/)
+[<img height = "50" width = "50" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg" />](https://www.linkedin.com/in/sameer-b-103912129/)
 [<img height="50" width="50" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" />](https://www.instagram.com/sameer_bramhecha/)
