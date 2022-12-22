@@ -49,5 +49,5 @@
   </div>
 
  ### Connect with me-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/sameer-b-103912129/)
+[<img height = "50" width = "50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL5iJLydkS-Rpg8vuFF04qj48NnbRJb89d9dARmK4uaj4gK5YL&s" />](https://www.linkedin.com/in/sameer-b-103912129/)
 [<img height="50" width="50" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png" />](https://www.instagram.com/sameer_bramhecha/)
