@@ -18,10 +18,10 @@
 ### IDE and Tools I have Used:
 <div>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> 
- <img height="50" width="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"/> 
- <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
- <img height="50" width="50" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png"/>
- <img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png?20190118024747">
+<img height="50" width="50" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  
+<img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png?20190118024747">
+<img height="50" width="50" src="https://colab.research.google.com/img/colab_favicon_256px.png"/> 
  
 </div>
 
