@@ -38,6 +38,7 @@
  <img height="50" width="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/>
  <img height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> 
+ <img height="50" width="50" src="https://p7.hiclipart.com/preview/780/57/127/node-js-javascript-database-mongodb-native.jpg" /> 
  
  
  </div>
@@ -57,3 +58,4 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SameerBramhecha&show_icons=true&theme=transparent)  
 
 ![Profile views](https://gpvc.arturio.dev/SameerBramhecha)  
+
