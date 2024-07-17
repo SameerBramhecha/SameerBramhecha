@@ -8,11 +8,15 @@
 <img align="right" width="280" height="280" src="https://i.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" >   
  </div>
 <br>
- <i> I'm a Fourth Year student currently pursuing a Bachelor's Degree in Computer Engineering at the Pune Institute of Computer Technology.
- I'm an open minded person and love to connect & interact with people.
- I’m currently exploring Blockchain Technology.
- I'm really intrested in DSA, Competitive Programming and Cyber Security.
- Apart from my studies, I love playing cricket, watching movies, playing piano & listening to music.</i>
+ <i>I have graduated with a Bachelor's Degree in Computer Engineering from the Pune Institute of Computer Technology. During my academic journey, I developed a strong foundation in computer science principles and honed my skills in various programming languages and technologies.
+
+I'm an open-minded person who loves to connect and interact with people from diverse backgrounds. This passion for communication has driven me to collaborate on numerous projects and participate in hackathons and coding competitions.
+
+Currently, I am exploring Blockchain Technology, aiming to understand its potential and applications in various industries. My interests also include Data Structures and Algorithms (DSA), Competitive Programming, and Cyber Security, where I continuously seek to enhance my knowledge and problem-solving abilities.
+
+In addition to my technical pursuits, I have a variety of hobbies that keep me balanced and motivated. I love playing cricket, which helps me stay active and develop teamwork skills. Watching movies is a favorite pastime that allows me to relax and enjoy different storytelling styles. Playing the piano is another passion of mine, providing a creative outlet and a way to express myself through music. Lastly, I enjoy listening to music, which serves as a constant source of inspiration and relaxation.
+
+I am always open to new opportunities and challenges that can help me grow both personally and professionally. Let's connect and collaborate on exciting projects!</i>
 
 
 ### IDE and Tools I have Used:
